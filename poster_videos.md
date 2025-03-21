@@ -2,6 +2,7 @@
 
 ## Videos will go here
 
-[![poster_demo.mp4](https://raw.githubusercontent.com/raichkel/rejection-free-MC-poster/main/thumbnail.png)](https://raw.githubusercontent.com/raichkel/rejection-free-MC-poster/main/poster_demo.mp4)
 
-like this
+
+https://github.com/user-attachments/assets/608e293f-0b4e-4b5a-98a4-3e87ecbc2cf3
+
